@@ -8,7 +8,7 @@ import Player from "../components/Player";
 import Controls from '../components/Controls';
 import History from "../components/History";
 
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Auxilary';
 
 import { modes } from '../constants/MODES'
 import * as actions from '../store/actions';
